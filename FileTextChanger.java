@@ -8,7 +8,7 @@ public class FileTextChanger
   public static void main(String[] args) throws Exception{
     //Declaring variables
     Scanner kbInput = new Scanner(System.in); //Kb Input
-    String file = "Names.txt"; //File where info is kept
+    String file = "Example.txt"; //File where info is kept
     String fileContents = ""; //Content of file for program
     
     //Asks user what they would like to replace
